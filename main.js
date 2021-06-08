@@ -173,8 +173,8 @@ var pelis = [
     },
     {
         "nombre": "------ TARANTINO ------",
-        "anio": 2000,
-        "peso": 0
+        "anio": "",
+        "peso": "25"
     },
     {
         "nombre": "Reservoir Dogs",
@@ -248,7 +248,7 @@ var pelis = [
     },
     {
         "nombre": "------ THE INFINITY SAGA - Phase I ------",
-        "anio": 2001,
+        "anio": "",
         "peso": 11.1
     },
     {
@@ -283,7 +283,7 @@ var pelis = [
     },
     {
         "nombre": "------ THE INFINITY SAGA - Phase II ------",
-        "anio": 2013,
+        "anio": "",
         "peso": 11.6
     },
     {
@@ -318,7 +318,7 @@ var pelis = [
     },
     {
         "nombre": "------ THE INFINITY SAGA - Phase III ------",
-        "anio": 2016,
+        "anio": "",
         "peso": 22.04
     },
     {
@@ -378,7 +378,7 @@ var pelis = [
     },
     {
         "nombre": "------ SAGA X-MEN ------",
-        "anio": 2000,
+        "anio": "",
         "peso": 0
     },
     {
@@ -413,7 +413,7 @@ var pelis = [
     },
     {
         "nombre": "------ MATRIX ------",
-        "anio": 1999,
+        "anio": "",
         "peso": 6
     },
     {
@@ -433,7 +433,7 @@ var pelis = [
     },
     {
         "nombre": "------ STAR WARS ------",
-        "anio": 1977,
+        "anio": "",
         "peso": 23.21
     },
     {
@@ -468,7 +468,7 @@ var pelis = [
     },
     {
         "nombre": "------ EL SEÑOR DE LOS ANILLOS ------",
-        "anio": 2001,
+        "anio": "",
         "peso": 4.95
     },
     {
@@ -490,23 +490,108 @@ var pelis = [
 
 var series = [
     {
-        "nombre": "peaky blinders",
-        "anio": 2001,
-        "peso": 2.4
+        "nombre": "Atypical",
+        "anio": 28,
+        "peso": 11.8
     },
     {
-        "nombre": "dark",
-        "anio": 1998,
-        "peso": 5.4
+        "nombre": "Avatar - El ultimo maestro aire",
+        "anio": 61,
+        "peso": 3.3
+    },
+    {
+        "nombre": "Black Mirror",
+        "anio": 18,
+        "peso": 8
+    },
+    {
+        "nombre": "Breaking Bad",
+        "anio": 62,
+        "peso": 20.8
+    },
+    {
+        "nombre": "Chernobyl",
+        "anio": 5,
+        "peso": 6.6
+    },
+    {
+        "nombre": "Cosmos",
+        "anio": 13,
+        "peso": 14.8
+    },
+    {
+        "nombre": "Death Note",
+        "anio": 37,
+        "peso": 2.6
+    },
+    {
+        "nombre": "Fargo",
+        "anio": 30,
+        "peso": 18
+    },
+    {
+        "nombre": "Game of Thrones",
+        "anio": 60,
+        "peso": 45.2
+    },
+    {
+        "nombre": "Six Feet Under",
+        "anio": 63,
+        "peso": 49.1
+    },
+    {
+        "nombre": "Las 13 esposas de Wilson Fernandez",
+        "anio": 13,
+        "peso": 7.3
+    },
+    {
+        "nombre": "Mad Men",
+        "anio": 92,
+        "peso": 37
+    },
+    {
+        "nombre": "Maniac",
+        "anio": 10,
+        "peso": 3.4
+    },
+    {
+        "nombre": "Please Like Me",
+        "anio": 32,
+        "peso": 6.4
+    },
+    {
+        "nombre": "Sex Education",
+        "anio": 16,
+        "peso": 23.8
+    },
+    {
+        "nombre": "The Haunting of Hill House",
+        "anio": 10,
+        "peso": 11.2
+    },
+    {
+        "nombre": "Utopia",
+        "anio": 12,
+        "peso": 4.2
     }
 ]
 
 var documentales = [
     {
-        "nombre": "20 Years Of Filmmaking",
-        "anio": 2012,
-        "peso": 0
+        "nombre": "Requiem for the American Dream",
+        "anio": 2015,
+        "peso": 2.4
     },
+    {
+        "nombre": "BBC - La historia del mundo en 8 horas",
+        "anio": "2012",
+        "peso": 14.1
+    },
+    {
+        "nombre": "Awake - The Life of Yogananda",
+        "anio": 2014,
+        "peso": 1
+    }
 ]
 
 buildTable(pelis);
