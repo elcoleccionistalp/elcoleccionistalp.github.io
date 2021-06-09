@@ -37,7 +37,7 @@ nav {
     box-shadow: 0 2px 3px 0 rgba(0, 0 ,0 , 0.1);
 }
 
-nav a{
+nav a {
     font-size: .9em;
     text-transform: uppercase;
     text-decoration: none;
@@ -68,7 +68,7 @@ a:hover{
 .content-table {
     border-collapse: collapse;
     margin: 25px 0px;
-    font-size: .9em;
+    font-size: 1.5em;
     min-width: 100%;
     border-radius: 5px 5px 0px 0px;
     overflow: hidden;
@@ -97,4 +97,18 @@ a:hover{
 
 .content-table tbody tr:last-of-type {
     border-bottom: 2px solid var(--solid);
+}
+
+@media screen and (max-width: 1024px) {
+    .content-table {
+        font-size: .9em;
+    }
+
+    nav a {
+        font-size: .9em;
+    }
+
+    a:hover{
+        font-size: 1em;
+    }
 }
