@@ -172,8 +172,8 @@ var pelis = [
         "peso": 1.3
     },
     {
-        "nombre": "21 Black Jack",
-        "anio": 0,
+        "nombre": "21 Blackjack",
+        "anio": 2008,
         "peso": 1
     },
     {
@@ -278,7 +278,7 @@ var pelis = [
     },
     {
         "nombre": "Pink Floyd - The Wall",
-        "anio": 0,
+        "anio": 1982,
         "peso": 1
     },
     {
@@ -332,8 +332,8 @@ var pelis = [
         "peso": 3
     },
     {
-        "nombre": "The Perfect Crime",
-        "anio": 0,
+        "nombre": "Fracture",
+        "anio": 2007,
         "peso": 4.5
     },
     {
