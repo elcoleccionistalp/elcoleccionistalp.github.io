@@ -42,11 +42,6 @@ var pelis = [
         "peso": 1.65
     },
     {
-        "nombre": "Tolkien",
-        "anio": 2019,
-        "peso": 2.29
-    },
-    {
         "nombre": "Dumbo",
         "anio": 2019,
         "peso": 1.92
@@ -67,7 +62,7 @@ var pelis = [
         "peso": 2.11
     },
     {
-        "nombre": "Pain and Glory",
+        "nombre": "Dolor y Gloria",
         "anio": 2019,
         "peso": 2.11
     },
@@ -77,14 +72,14 @@ var pelis = [
         "peso": 1.64
     },
     {
-        "nombre": "Green Book",
-        "anio": 2018,
-        "peso": 1.53
-    },
-    {
         "nombre": "Blade Runner 2049",
         "anio": 2017,
         "peso": 2.05
+    },
+    {
+        "nombre": "Mad Max Fury Road",
+        "anio": 2015,
+        "peso": 2
     },
     {
         "nombre": "Loving Vincent",
@@ -105,6 +100,11 @@ var pelis = [
         "nombre": "Ghost in the Shell",
         "anio": 2017,
         "peso": 1.75
+    },
+    {
+        "nombre": "Ghost in the Shell",
+        "anio": 1995,
+        "peso": 5
     },
     {
         "nombre": "The Danish Girl",
@@ -137,11 +137,6 @@ var pelis = [
         "peso": 2.49
     },
     {
-        "nombre": "Citizenfour",
-        "anio": 2014,
-        "peso": 0.85
-    },
-    {
         "nombre": "We Steal Secrets - Wikileaks",
         "anio": 2013,
         "peso": 1.37
@@ -167,14 +162,224 @@ var pelis = [
         "peso": 0.85
     },
     {
-        "nombre": "The theory of everything",
+        "nombre": "2001 A Space Odyssey",
+        "anio": 1968,
+        "peso": 0.9
+    },
+    {
+        "nombre": "Across the Universe",
+        "anio": 2007,
+        "peso": 1.3
+    },
+    {
+        "nombre": "21 Black Jack",
         "anio": 0,
-        "peso": 0
+        "peso": 1
+    },
+    {
+        "nombre": "American History X",
+        "anio": 1998,
+        "peso": 0.9
+    },
+    {
+        "nombre": "American Psyco",
+        "anio": 2000,
+        "peso": 1.5
+    },
+    {
+        "nombre": "Apocalypto",
+        "anio": 2006,
+        "peso": 0.95
+    },
+    {
+        "nombre": "Avatar",
+        "anio": 2009,
+        "peso": 4.3
+    },
+    {
+        "nombre": "Blood Diamond",
+        "anio": 2006,
+        "peso": 2
+    },
+    {
+        "nombre": "Catch Me If You Can",
+        "anio": 2002,
+        "peso": 3.6
+    },
+    {
+        "nombre": "Dallas Buyers Club",
+        "anio": 2013,
+        "peso": 2
+    },
+    {
+        "nombre": "Death Poets Society",
+        "anio": 1989,
+        "peso": 2
+    },
+    {
+        "nombre": "Dorian Gray",
+        "anio": 2009,
+        "peso": 1.6
+    },
+    {
+        "nombre": "Fargo",
+        "anio": 1996,
+        "peso": 1.5
+    },
+    {
+        "nombre": "Fight Club",
+        "anio": 1999,
+        "peso": 2
+    },
+    {
+        "nombre": "Full Metal Jacket",
+        "anio": 1987,
+        "peso": 0.9
+    },
+    {
+        "nombre": "High Fidelity",
+        "anio": 2000,
+        "peso": 2
+    },
+    {
+        "nombre": "How High",
+        "anio": 2001,
+        "peso": 1.6
+    },
+    {
+        "nombre": "Inception",
+        "anio": 2010,
+        "peso": 1.2
+    },
+    {
+        "nombre": "La Dictadura Perfecta",
+        "anio": 2014,
+        "peso": 1.6
+    },
+    {
+        "nombre": "Leon The Professional",
+        "anio": 1994,
+        "peso": 0.9
+    },
+    {
+        "nombre": "Memento",
+        "anio": 2000,
+        "peso": 1.1
+    },
+    {
+        "nombre": "Mr. Nobody",
+        "anio": 2009,
+        "peso": 4.1
+    },
+    {
+        "nombre": "Persepolis",
+        "anio": 2007,
+        "peso": 1.6
+    },
+    {
+        "nombre": "Pink Floyd - The Wall",
+        "anio": 0,
+        "peso": 1
+    },
+    {
+        "nombre": "Relatos Salvajes",
+        "anio": 2014,
+        "peso": 1.7
+    },
+    {
+        "nombre": "Rounders",
+        "anio": 1998,
+        "peso": 2
+    },
+    {
+        "nombre": "Scarface",
+        "anio": 1983,
+        "peso": 2.6
+    },
+    {
+        "nombre": "Seven",
+        "anio": 1995,
+        "peso": 0.9
+    },
+    {
+        "nombre": "Slumdog Millionaire",
+        "anio": 2008,
+        "peso": 2
+    },
+    {
+        "nombre": "The Boat that Rocked",
+        "anio": 2009,
+        "peso": 1.1
+    },
+    {
+        "nombre": "The Big Short",
+        "anio": 2015,
+        "peso": 2.1
+    },
+    {
+        "nombre": "The Illusionist",
+        "anio": 2006,
+        "peso": 0.9
+    },
+    {
+        "nombre": "Death Poets Society",
+        "anio": 1989,
+        "peso": 2
+    },
+    {
+        "nombre": "The Martian",
+        "anio": 2015,
+        "peso": 3
+    },
+    {
+        "nombre": "The Perfect Crime",
+        "anio": 0,
+        "peso": 4.5
+    },
+    {
+        "nombre": "The Red Violin",
+        "anio": 1998,
+        "peso": 1.3
+    },
+    {
+        "nombre": "The Truman Show",
+        "anio": 1998,
+        "peso": 1.8
+    },
+    {
+        "nombre": "The Usual Suspects",
+        "anio": 1995,
+        "peso": 1.8
+    },
+    {
+        "nombre": "Trainspotting",
+        "anio": 1996,
+        "peso": 0.9
+    },
+    {
+        "nombre": "V for Vendetta",
+        "anio": 2006,
+        "peso": 1.8
+    },
+    {
+        "nombre": "------ MIYAZAKI - GHIBLI ------",
+        "anio": "",
+        "peso": ""
+    },
+    {
+        "nombre": "Howl's Moving Castle",
+        "anio": 2004,
+        "peso": 2.6
+    },
+    {
+        "nombre": "Chihiro",
+        "anio": 2001,
+        "peso": 1.4
     },
     {
         "nombre": "------ TARANTINO ------",
         "anio": "",
-        "peso": "25"
+        "peso": 25
     },
     {
         "nombre": "Reservoir Dogs",
@@ -412,6 +617,26 @@ var pelis = [
         "peso": 4.21
     },
     {
+        "nombre": "------ Batman ------",
+        "anio": "",
+        "peso": 7.7
+    },
+    {
+        "nombre": "The Dark Knight",
+        "anio": 2008,
+        "peso": 3
+    },
+    {
+        "nombre": "Batman Begins",
+        "anio": 2005,
+        "peso": 1.2
+    },
+    {
+        "nombre": "The Dark Knight Rises",
+        "anio": 2012,
+        "peso": 3.6
+    },
+    {
         "nombre": "------ MATRIX ------",
         "anio": "",
         "peso": 6
@@ -430,6 +655,11 @@ var pelis = [
         "nombre": "The Matrix Revolutions",
         "anio": 2003,
         "peso": 2
+    },
+    {
+        "nombre": "The Animatrix",
+        "anio": 2003,
+        "peso": 1.6
     },
     {
         "nombre": "------ STAR WARS ------",
@@ -485,6 +715,11 @@ var pelis = [
         "nombre": "El retorno del rey - version extendida",
         "anio": 2003,
         "peso": 1.83
+    },
+    {
+        "nombre": "Tolkien",
+        "anio": 2019,
+        "peso": 2.29
     }
 ]
 
@@ -591,6 +826,11 @@ var documentales = [
         "nombre": "Awake - The Life of Yogananda",
         "anio": 2014,
         "peso": 1
+    },
+    {
+        "nombre": "Citizenfour",
+        "anio": 2014,
+        "peso": 0.85
     }
 ]
 
