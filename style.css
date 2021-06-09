@@ -38,7 +38,7 @@ nav {
 }
 
 nav a {
-    font-size: .9em;
+    font-size: 1.5em;
     text-transform: uppercase;
     text-decoration: none;
     color: white;
@@ -50,19 +50,19 @@ nav a {
 }
 
 a:nth-child(1){
-    width: 60px;
+    width: 80px;
 }
 
 a:nth-child(2){
-    width: 70px;
+    width: 90px;
 }
 
 a:nth-child(3){
-    width: 140px;
+    width: 200px;
 }
 
 a:hover{
-    font-size: 1em;
+    font-size: 1.6em;
 }
 
 .content-table {
@@ -103,11 +103,18 @@ a:hover{
     .content-table {
         font-size: .9em;
     }
-
     nav a {
         font-size: .9em;
     }
-
+    a:nth-child(1){
+        width: 60px;
+    }
+    a:nth-child(2){
+        width: 70px;
+    }
+    a:nth-child(3){
+        width: 140px;
+    }
     a:hover{
         font-size: 1em;
     }
