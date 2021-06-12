@@ -2,7 +2,7 @@
 
 var pelis = [
     {
-        "nombre": "------------ Drama ------------",
+        "nombre": "--- Drama ---",
         "anio": "",
         "peso": ""
     },
@@ -89,7 +89,7 @@ var pelis = [
 
 
     {
-        "nombre": "------------ Música ------------",
+        "nombre": "--- Música ---",
         "anio": "",
         "peso": ""
     },
@@ -116,7 +116,7 @@ var pelis = [
 
 
     {
-        "nombre": "------------ Acción ------------",
+        "nombre": "--- Acción ---",
         "anio": "",
         "peso": ""
     },
@@ -163,7 +163,7 @@ var pelis = [
 
 
     {
-        "nombre": "------------ Crimen ------------",
+        "nombre": "--- Crimen ---",
         "anio": "",
         "peso": ""
     },
@@ -199,7 +199,7 @@ var pelis = [
     },
 
     {
-        "nombre": "------------ Comedia ------------",
+        "nombre": "--- Comedia ---",
         "anio": "",
         "peso": ""
     },
@@ -226,7 +226,7 @@ var pelis = [
 
 
     {
-        "nombre": "------------ Animadas ------------",
+        "nombre": "--- Animadas ---",
         "anio": "",
         "peso": ""
     },
@@ -253,7 +253,7 @@ var pelis = [
 
 
     {
-        "nombre": "------------ Miyazaki ------------",
+        "nombre": "--- Miyazaki ---",
         "anio": "",
         "peso": ""
     },
@@ -270,7 +270,7 @@ var pelis = [
 
 
     {
-        "nombre": "------------ Infantiles ------------",
+        "nombre": "--- Infantiles ---",
         "anio": "",
         "peso": ""
     },
@@ -287,7 +287,7 @@ var pelis = [
 
 
     {
-        "nombre": "------------ Biograficas ------------",
+        "nombre": "--- Biograficas ---",
         "anio": "",
         "peso": ""
     },
@@ -359,7 +359,7 @@ var pelis = [
 
 
     {
-        "nombre": "------------ Clasicas ------------",
+        "nombre": "--- Clasicas ---",
         "anio": "",
         "peso": ""
     },
@@ -438,7 +438,7 @@ var pelis = [
 
 
     {
-        "nombre": "------------ Tarantino ------------",
+        "nombre": "--- Tarantino ---",
         "anio": "",
         "peso": 25
     },
@@ -515,7 +515,7 @@ var pelis = [
 
 
     {
-        "nombre": "-------- The Infinity Saga --------",
+        "nombre": "-- The Infinity Saga --",
         "anio": "",
         "peso": ""
     },
@@ -635,7 +635,7 @@ var pelis = [
         "peso": 2.18
     },
     {
-        "nombre": "------------ X-Men ------------",
+        "nombre": "--- X-Men ---",
         "anio": "",
         "peso": 0
     },
@@ -670,7 +670,7 @@ var pelis = [
         "peso": 4.21
     },
     {
-        "nombre": "------------ Batman ------------",
+        "nombre": "--- Batman ---",
         "anio": "",
         "peso": 7.7
     },
@@ -690,7 +690,7 @@ var pelis = [
         "peso": 3.6
     },
     {
-        "nombre": "------------ Matrix ------------",
+        "nombre": "--- Matrix ---",
         "anio": "",
         "peso": 6
     },
@@ -715,7 +715,7 @@ var pelis = [
         "peso": 1.6
     },
     {
-        "nombre": "------------ STAR WARS ------------",
+        "nombre": "--- STAR WARS ---",
         "anio": "",
         "peso": 23.21
     },
@@ -750,7 +750,7 @@ var pelis = [
         "peso": 3.89
     },
     {
-        "nombre": "------ El Señor de los Anillos ------",
+        "nombre": "-- El Señor de los Anillos --",
         "anio": "",
         "peso": ""
     },
