@@ -119,3 +119,13 @@ a:hover{
         font-size: 1em;
     }
 }
+
+.wsp {
+    border-radius: 50%;
+    cursor: pointer;
+    height: 2.5rem;
+    margin: 0 1rem .5rem 0;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
