@@ -22,6 +22,7 @@
 
 body {
     font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 1.5em;
 }
 
 h1 {
@@ -38,7 +39,6 @@ nav {
 }
 
 nav a {
-    font-size: 1.5em;
     text-transform: uppercase;
     text-decoration: none;
     color: white;
@@ -62,13 +62,16 @@ a:nth-child(3){
 }
 
 a:hover{
-    font-size: 1.6em;
+    font-size: 1.1em;
+}
+
+.messages {
+    margin: 10px 10px;
 }
 
 .content-table {
     border-collapse: collapse;
-    margin: 25px 0px;
-    font-size: 1.5em;
+    margin: 10px 0px;
     min-width: 100%;
     border-radius: 5px 5px 0px 0px;
     overflow: hidden;
@@ -100,10 +103,7 @@ a:hover{
 }
 
 @media screen and (max-width: 1024px) {
-    .content-table {
-        font-size: .9em;
-    }
-    nav a {
+    body {
         font-size: .9em;
     }
     a:nth-child(1){
@@ -116,7 +116,7 @@ a:hover{
         width: 140px;
     }
     a:hover{
-        font-size: 1em;
+        font-size: 1.1em;
     }
 }
 
