@@ -7,14 +7,29 @@ var pelis = [
         "peso": ""
     },
     {
+        "nombre": "Pain and Glory",
+        "anio": 2019,
+        "peso": 2.11
+    },
+    {
+        "nombre": "Joker",
+        "anio": 2019,
+        "peso": 2.06
+    },
+    {
         "nombre": "The Red Violin",
         "anio": 1998,
         "peso": 1.3
     },
     {
-        "nombre": "The Martian",
-        "anio": 2015,
-        "peso": 3
+        "nombre": "Dorian Gray",
+        "anio": 2009,
+        "peso": 1.6
+    },
+    {
+        "nombre": "Blood Diamond",
+        "anio": 2006,
+        "peso": 2
     },
     {
         "nombre": "The Illusionist",
@@ -37,16 +52,6 @@ var pelis = [
         "peso": 1.7
     },
     {
-        "nombre": "Pain and Glory",
-        "anio": 2019,
-        "peso": 2.11
-    },
-    {
-        "nombre": "Joker",
-        "anio": 2019,
-        "peso": 2.06
-    },
-    {
         "nombre": "Parasite",
         "anio": 2019,
         "peso": 2.22
@@ -62,16 +67,6 @@ var pelis = [
         "peso": 4.3
     },
     {
-        "nombre": "Dorian Gray",
-        "anio": 2009,
-        "peso": 1.6
-    },
-    {
-        "nombre": "Blood Diamond",
-        "anio": 2006,
-        "peso": 2
-    },
-    {
         "nombre": "1917",
         "anio": 2019,
         "peso": 0
@@ -85,6 +80,11 @@ var pelis = [
         "nombre": "The Farewell",
         "anio": 2019,
         "peso": 1.65
+    },
+    {
+        "nombre": "The Martian",
+        "anio": 2015,
+        "peso": 3
     },
 
 
